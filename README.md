@@ -5,4 +5,4 @@
 
 
 <a href="https://github-readme-stats.vercel.app"><img align="left" alt="Diego Rapoport Stats" src="https://github-readme-stats.vercel.app//api?username=aaroncampecino&show_icons=true&theme=radical&count_private=true" height="200"/></a>
-
+<img alt="Aaron Campecino Stats" src="https://github-readme-stats.vercel.app//api/top-langs/?username=aaroncampecino&theme=radical&hide=css,shell,html,vim)](https://github.com/anuraghazra/github-readme-stats" height="400" width="500"/>
